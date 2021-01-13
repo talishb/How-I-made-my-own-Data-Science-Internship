@@ -6,4 +6,4 @@ After some serious self-reflection, I committed to learning everything I could a
 
 I went from not having an internship to leading data science for a technology startup. If this post helps atleast 1 person, I would have achieved my objective. 
 
-Flip your script :)
+Flip your script :) - https://github.com/talishb/How-I-made-my-own-Data-Science-Internship/blob/main/How%20I%20crafted%20my%20own%20Data%20Science%20Internship.pdf
